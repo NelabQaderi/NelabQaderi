@@ -1,3 +1,6 @@
+## Who's Nelab...???
+A seasoned programmer with 4 years of experience in Python and JavaScript development. I have a passion for solving complex problems and building innovative solutions. My journey in the world of coding has led me to explore various programming languages, tools, and databases.
+
 - 👋 Hi, I’m @NelabQaderi
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Full Stack Web Development  
