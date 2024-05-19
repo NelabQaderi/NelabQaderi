@@ -1,8 +1,8 @@
-## Who's Nelab...???
+## Who's Queen...???
 A seasoned programmer with 1 years of experience in Python and JavaScript development. I have a passion for solving complex problems and building innovative solutions. My journey in the world of coding has led me to explore various programming languages, tools, and databases.
 
 ## But ...!
-.............................................
+My real name is Neelab Qaderi and I like Queen name...
 <!---
 NelabQaderi/NelabQaderi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
