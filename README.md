@@ -1,5 +1,5 @@
 ## Who's Queen...???
-A seasoned programmer with 1 years of experience in Python and JavaScript development. I have a passion for solving complex problems and building innovative solutions. My journey in the world of coding has led me to explore various programming languages, tools, and databases.
+A seasoned programmer with 1 years of experience in JavaScript development. I have a passion for solving complex problems and building innovative solutions. My journey in the world of coding has led me to explore various programming languages, tools, and databases.
 
 ## But ...!
 My real name is Neelab Qaderi and I like Queen name...
@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Technologies I Use...
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
